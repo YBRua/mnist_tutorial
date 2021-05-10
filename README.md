@@ -22,3 +22,11 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Results
+|  Tasks  | Train Acc | Test Acc |
+| :-----: | :-------: | :------: |
+| **Q1**  |   97.67%  |  87.10%  |
+| **Q2**  |   81.87%  |  80.00%  |
+| **Q3**  |   98.08%  |  84.60%  |
+| **Q4**  |   93.67%  |  87.90%  |
