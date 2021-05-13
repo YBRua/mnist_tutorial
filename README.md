@@ -22,3 +22,18 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Results
+> 使用 `pytorch` （Q5）
+
+- Numpy version: 1.19.2
+- Sklearn version: 0.23.2
+- Pytorch version: 1.8.1+cuda102
+
+|  Tasks  | Train Acc | Test Acc |
+| :-----: | :-------: | :------: |
+| **Q1**  |   97.45%  |  86.70%  |
+| **Q2**  |   81.93%  |  79.20%  |
+| **Q3**  |   97.72%  |  84.40%  |
+| **Q4**  |   92.17%  |  87.90%  |
+| **Q5**  |   98.40%  |  98.33%  |
