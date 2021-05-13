@@ -24,9 +24,12 @@ Code tested on following environments, other version should also work:
 Please read [HEAR](EE369.md).
 
 # Results
+> 使用 `pytorch` （Q5）
+
 |  Tasks  | Train Acc | Test Acc |
 | :-----: | :-------: | :------: |
-| **Q1**  |   97.67%  |  87.10%  |
-| **Q2**  |   81.87%  |  80.00%  |
-| **Q3**  |   98.08%  |  84.60%  |
-| **Q4**  |   93.67%  |  87.90%  |
+| **Q1**  |   97.45%  |  86.70%  |
+| **Q2**  |   81.93%  |  79.20%  |
+| **Q3**  |   97.72%  |  84.40%  |
+| **Q4**  |   92.17%  |  87.90%  |
+| **Q5**  |   98.40%  |  98.33%  |
